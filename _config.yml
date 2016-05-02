@@ -1,0 +1,28 @@
+name: Vintage And Modern Cars
+favicon: null
+layout_spectrum: 0.7191091901622713
+typography_spectrum: 0.5687638644594699
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.8703845562413335
+  lightness: 0.04633142217062414
+  saturation: 0.49154237168841064
+  rhythmicContrast: 0.3233809066005051
+purpose: []
